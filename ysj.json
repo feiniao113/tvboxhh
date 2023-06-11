@@ -11,33 +11,6 @@
 	"warningText": "欢迎使用",
 	"sites": [
 		{
-			"key": "js_豆瓣荐片",
-			"name": "🅱️追剧影院|T热播",
-			"type": 3,
-			"api": "./lib/doubanjianpian1.js",
-			"ext": "./lib/doubanjianpian2.js"
-		},
-		{
-			"key": "csp_量子",
-			"name": "🅱️荷城量子|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/量子资源网.json"
-		},
-		{
-			"key": "csp_非凡",
-			"name": "🅱️茶秀非凡|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/非凡资源网.json"
-		},
-		{
 			"key": "csp_魔力",
 			"name": "🅱️魔力影视|T追剧",
 			"type": 3,
