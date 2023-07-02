@@ -32,16 +32,6 @@
 		},
 		
 		{
-			"key": "csp_小站",
-			"name": "🅱️无名小站|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/无名小站.json"
-		},
-		{
 			"key": "csp_农民",
 			"name": "🅱️农民影视|T追剧",
 			"type": 3,
