@@ -82,26 +82,6 @@
 			"ext": "./lib/蛋蛋影视.json"
 		},
 		{
-			"key": "csp_xBPQ_野荷塘",
-			"name": "🅱️荷塘影视|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/野荷塘影视.json"
-		},
-		{
-			"key": "csp_xBPQ_思古",
-			"name": "🅱️思古影视|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/思古影视.json"
-		},
-		{
 			"key": "csp_花猫",
 			"name": "🅱️花猫影视|T追剧",
 			"type": 3,
