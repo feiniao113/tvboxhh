@@ -42,17 +42,6 @@
 			"ext": "./lib/农民影视.json"
 		},
 		{
-			"key": "csp_西瓜",
-			"name": "🅱️西瓜影视|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/西瓜影视.json"
-		},
-	
-		{
 			"key": "csp_91",
 			"name": "🅱️玖摇影视|T追剧",
 			"type": 3,
