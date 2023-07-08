@@ -51,16 +51,7 @@
 			"filterable": 1,
 			"ext": "./lib/西瓜影视.json"
 		},
-		{
-			"key": "csp_我爱",
-			"name": "🅱️我爱看剧|T追剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/52看剧.json"
-		},
+	
 		{
 			"key": "csp_91",
 			"name": "🅱️玖摇影视|T追剧",
